@@ -1,4 +1,3 @@
-````markdown
 # MediaTek MT7921 Wi-Fi Performance Fix
 
 A troubleshooting guide for poor Wi-Fi performance and connection stability with the MediaTek Wi-Fi 6 MT7921 wireless adapter on Windows.
@@ -179,4 +178,3 @@ Original text in this repository is licensed under the Creative Commons Attribut
 Referenced projects, documentation and third-party material retain their respective rights and licenses.
 
 See `LICENSE` for the full license text.
-````
