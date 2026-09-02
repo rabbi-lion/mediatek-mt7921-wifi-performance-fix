@@ -10,8 +10,6 @@ Some systems using the MT7921 may experience problems such as:
 - intermittent connection problems
 - instability when using Wi-Fi 6
 
-These problems can also be caused by drivers, signal quality, interference or router configuration, so the settings below should be treated as troubleshooting steps rather than a universal fix.
-
 ## Update the Wi-Fi Driver
 
 Before changing adapter settings, check whether a newer Wi-Fi driver is available from your laptop or motherboard manufacturer.
