@@ -155,18 +155,6 @@ The exact names and available values of the MT7921 Advanced properties vary betw
 
 Poor Wi-Fi performance is not necessarily caused by the wireless adapter itself. Signal strength, interference, router configuration, router firmware and driver versions can produce similar symptoms.
 
-## References
-
-This guide was written independently using Microsoft Windows troubleshooting information and MediaTek MT7921 troubleshooting reports as technical references.
-
-Relevant documentation:
-
-- Microsoft Windows Wi-Fi troubleshooting documentation
-- Microsoft Community and Microsoft Q&A MT7921 troubleshooting information
-- Documentation and drivers provided by the computer or motherboard manufacturer
-
-Windows and wireless drivers change over time. Check the current driver and documentation provided by your computer manufacturer before troubleshooting.
-
 ## License
 
 Made by rabbi-lion.
