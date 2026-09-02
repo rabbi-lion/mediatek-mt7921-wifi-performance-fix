@@ -161,4 +161,6 @@ Made by rabbi-lion.
 
 Original text in this repository is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
+Referenced projects, documentation and third-party material retain their respective rights and licenses.
+
 See `LICENSE` for the full license text.
